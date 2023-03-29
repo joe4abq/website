@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "A brighter future for all. Starting with safety."
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
